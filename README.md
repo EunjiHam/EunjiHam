@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![header](https://capsule-render.vercel.app/api?type=Slice&color=E3A6AE&height=300&section=header&text=Eunji%20Ham&fontSize=90&fontColor=363636)
+
+
+
+
+![EunjiHam's github stats](https://github-readme-stats.vercel.app/api?username=EunjiHam&show_icons=true)
